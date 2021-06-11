@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'MTComponents_Example' do
+  pod 'MTComponents', :path => '../'
+
+  target 'MTComponents_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
