@@ -24,7 +24,7 @@ TODO: Add long description of the pod here.
   s.homepage         = 'https://github.com/6ee983846cec8224f266c949a961462d8d886c0e/MTComponents'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { '6ee983846cec8224f266c949a961462d8d886c0e' => 'liyan01@souche.com' }
+  s.author           = { '6ee983846cec8224f266c949a961462d8d886c0e' => 'mt@qq.com' }
   s.source           = { :git => 'https://github.com/6ee983846cec8224f266c949a961462d8d886c0e/MTComponents.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
